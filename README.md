@@ -1,1 +1,1 @@
-# -Saturn-Ring-Image-Classification--Project
+# Saturn-Ring-Image-Classification--Project
